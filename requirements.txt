@@ -1,0 +1,7 @@
+Flask==1.1.2
+Flask-SQLAlchemy==2.4.4
+Gunicorn==20.0.4
+Psycopg2==2.8.6
+Flake8==3.8.4
+Black==20.8
+pytest==6.1.1
